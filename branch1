@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main(){
-    int sum;
-    sum=2+3;
-    printf("%d",sum);
+
+    printf("Hellow world!")
     return 0;
 }
